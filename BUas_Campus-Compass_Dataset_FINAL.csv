@@ -1,0 +1,50 @@
+id;category;name;description;target_programme;target_year;date_start;date_end;deadline;location;tags
+1;club;Phileas Fogg;Student association for BUas and Avans students. Organises parties excursions and social events year-round.;All;All;01/09/2026;31/07/2027;Join anytime;Breda city centre;social
+2;club;Maximus;Student association founded in 2013. Motto: Labora et Victoria. Focus on social interactions and professional networking.;All;All;01/09/2026;31/07/2027;Join anytime;Breda city centre;social
+3;club;Student Association Xenia;International association for Hotel and Facility students. Parties events and annual gala. Home bar at Feestcafe Peddels every Wednesday.;Hotel;;;;;;
+4;club;S.V. t KAG;Relaxed student association. No obligations no initiations. Weekly meetups on Tuesdays at Cafe de Kater.;Facility;;;;;;
+5;club;ESN Breda;Erasmus Student Network for international and exchange students. Also open to Dutch students. Cultural trips and social events.;All;All;01/09/2026;31/07/2027;Join anytime;BUas Campus;international
+6;club;BRESS Student Sports;60+ sports at low prices. Also wine tastings pub quizzes and salsa evenings. Slogan: More than just sports.;All;All;01/09/2026;31/07/2027;Register at start of semester;BRESS Sports Centre Breda;sports
+7;club;Dudok van Heel Rowing Club;Rowing club originally for navy cadets now open to all Breda students.;All;All;01/09/2026;31/07/2027;Join anytime;Breda waterways;sports
+8;club;Themed Entertainment Association (TEA);For designers of immersive experiences. Connected to Imagineering and Leisure programmes.;Imagineering;;;;;;
+9;club;Derde Akte;Theatre group for students who want to act or work behind the scenes. No experience needed.;All;All;01/09/2026;31/07/2027;Join anytime;BUas Campus;theatre
+10;club;CSV Ichthus Breda;Christian student association combining social activities and faith. Open to BUas and Avans students.;All;All;01/09/2026;31/07/2027;Join anytime;Breda;faith
+11;club;Sorority NYX;Sorority within Xenia. Named after Greek goddess of the night. Wednesday meetups at home bar.;Hotel;;;;;;
+12;club;Fraternity Palto;First international fraternity within Xenia. Promotes unity internationalism and professionalism.;Hotel;;;;;;
+13;club;Studententennis Breda;Only student tennis club in Breda. Beginners and experienced players welcome.;All;All;01/09/2026;31/07/2027;Register at start of semester;Breda tennis courts;sports
+14;club;BELO Study Society;Study society for Built Environment and Logistics students. Company visits and networking events.;Built Environment;;;;;;
+15;club;Otium Study Society;Study society for Master Leisure and Tourism students. Academic events and industry networking.;MSc Leisure and Tourism;Master;01/09/2026;31/07/2027;Join at start of year;BUas Campus;academic
+16;club;Pangea Study Society;Study society for BSc Tourism students. Academic discussions field trips and social gatherings.;BSc Tourism;Bachelor;01/09/2026;31/07/2027;Join at start of year;BUas Campus;academic
+17;club;Book Club;CLUBS@BUas via HUB. Regular meetups to discuss books. Open to all students.;All;All;01/09/2026;31/07/2027;Join anytime;BUas Campus;reading
+18;club;Cooking Club;CLUBS@BUas via HUB. Cook together and explore different cuisines.;All;All;01/09/2026;31/07/2027;Join anytime;BUas Campus;cooking
+19;club;Games Club (Unplugged);CLUBS@BUas via HUB. Board games card games and tabletop sessions.;All;All;01/09/2026;31/07/2027;Join anytime;BUas Campus;games
+20;club;Band Jam Club;CLUBS@BUas via HUB. For musicians of all levels who want to jam together.;All;All;01/09/2026;31/07/2027;Join anytime;BUas Campus;music
+21;event;Best of BUas Talent Show;Annual talent show where students showcase performances and creative acts. Ticketed.;All;All;20/03/2026;20/03/2026;15/03/2026;BUas Campus;talent
+22;event;BUas Open Day;Open day for prospective students. Course presentations campus tours and Q&A with lecturers.;All;Prospective;14/11/2026;14/11/2026;No registration needed;BUas Campus Mgr. Hopmansstraat 2;orientation
+23;event;Industry Event;Annual event connecting 130+ companies with students. Networking and recruitment opportunities.;All;3;;;;;
+24;event;Sustainable Tourism Mobility Forum;Academic conference on sustainable tourism and mobility. Researchers and industry professionals.;Tourism;;;;;;
+25;event;InterSib Introduction Week;Introduction week for new Hotel and Facility students. Meet associations and explore Breda.;Hotel;;;;;;
+26;event;Minor Information Evening;All 23+ BUas minors presented. Talk directly to minor coordinators.;All;2;;;;;
+27;event;Welcome Week (International Students);Orientation for new international students. Workshops campus tours and city introduction.;All;1;24/08/2026;28/08/2026;Register after admission;BUas Campus and Breda;international
+28;event;BUas Career Day;Company presentations CV workshops interview training and direct recruitment opportunities.;All;3;;;;;
+29;event;BLEND Magazine Launch;Launch of student-produced BLEND magazine by HUB Production House.;All;All;10/12/2026;10/12/2026;No registration needed;BUas Campus;media
+30;event;Breda Carnival (Kielegat);Major carnival celebration in Breda with parades costumes and festivities. Huge student tradition.;All;All;14/02/2027;16/02/2027;No registration needed;Breda city centre;carnival
+31;deadline;Studielink Enrolment (Dutch);Deadline for Dutch students to enrol via Studielink for September bachelor start.;All;1;01/01/2026;01/05/2026;01/05/2026;Online via Studielink;enrolment
+32;deadline;Application Deadline (Non-EU);Application deadline for non-EU international students. Bachelor programmes starting September.;All;1;01/10/2025;01/04/2026;01/04/2026;Online BUas application portal;application
+33;deadline;Application Deadline (EU);Application deadline for EU international students. Bachelor programmes starting September.;All;1;01/10/2025;01/06/2026;01/06/2026;Online BUas application portal;application
+34;deadline;Minor Application Osiris (Fall);BUas students apply in Osiris for fall semester minors. First-come first-served. Two preferences.;All;3;23/03/2026;27/03/2026;27/03/2026;Osiris Student Portal;minor
+35;deadline;Minor Application Osiris (Spring);BUas students apply in Osiris for spring semester minors. First-come first-served.;All;3;05/10/2026;09/10/2026;09/10/2026;Osiris Student Portal;minor
+36;deadline;External Minor (Kies op Maat);External students download learning agreements Feb-May. Studielink registration until 26 June.;External students;3;02/02/2026;15/05/2026;26/06/2026;Online Kies op Maat and Studielink;minor
+37;deadline;Internship Placement (Year 3);Recommended deadline for securing internship placement. Applies to all programmes.;All;3;01/12/2025;01/03/2026;01/03/2026;Career Centre BUas Campus;internship
+38;deadline;Aviation Minor Video Deadline;Submit 1-minute video motivation for Aviation Management minor fall semester.;All;3;01/02/2026;20/03/2026;20/03/2026;Email to minor coordinator;minor
+39;deadline;Newways Application Round 2;Send CV and motivation letter for Newways traineeship minor. Selection week 11-12.;Tourism;;;;;;
+40;deadline;Master Programme Application;Application deadline for all BUas master programmes starting September.;All;Master;01/11/2025;01/06/2026;01/06/2026;Online BUas application portal;master
+41;internship;Industry Event Recruitment Fair;Annual fair where 130+ companies recruit BUas students for internships and jobs across all programmes.;All;3;;;;;
+42;internship;Hospitality Internships;Hotel Management students intern at international hotels and resorts. Career centre helps with placement.;Hotel;3;01/09/2026;28/02/2027;Arrange by March of year 3;International hotels and resorts;hospitality
+43;internship;Game Studio Internships;Games students intern at studios in NL UK and Scandinavia. Programming art and design roles.;Games;3;;;;;
+44;internship;Data Science and AI Internships;ADS&AI students intern at tech companies and research labs. Example employer: Thermo Fisher.;Data Science & AI;3;;;;;
+45;internship;Tourism and Leisure Internships;Tourism and Leisure students intern at DMOs event companies and consultancies worldwide.;Tourism;;;;;;
+46;internship;Logistics and Built Environment Internships;Students intern at logistics firms municipalities and urban planning offices.;Logistics;;;;;;
+47;internship;Creative Business Internships;Media students intern at agencies startups and production houses. Marketing content and digital roles.;Media & Creative Business;3;01/09/2026;28/02/2027;Arrange by March of year 3;NL and international agencies;media
+48;internship;Facility Management Internships;Facility students intern at service providers corporate offices and workplace management companies.;Facility;3;01/09/2026;28/02/2027;Arrange by March of year 3;NL and international companies;facility
+49;internship;Newways Training Company;Full-year paid traineeship organising field trips events and seminars for real clients on campus.;Tourism;;;;;;
